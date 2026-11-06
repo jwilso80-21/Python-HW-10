@@ -1,3 +1,1 @@
-The quick brown fox jumps over the lazy dog.
-Python is a programming language.
-Learning Python takes practice.
+Python Homework 10
